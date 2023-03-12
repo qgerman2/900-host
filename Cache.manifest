@@ -18,6 +18,7 @@ linux/1gb.js
 linux/3gb.js
 mira/mira.js
 mira/mira2.js
+mira/goldhen20b2.js
 mira/jbcldr.js
 netcat.js
 payload.html
